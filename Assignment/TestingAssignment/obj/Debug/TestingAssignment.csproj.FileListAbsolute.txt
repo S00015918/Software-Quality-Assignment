@@ -1,0 +1,7 @@
+C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\TestingAssignment\bin\Debug\TestingAssignment.dll
+C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\TestingAssignment\bin\Debug\TestingAssignment.pdb
+C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\TestingAssignment\bin\Debug\nunit.framework.dll
+C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\TestingAssignment\bin\Debug\nunit.framework.xml
+C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\TestingAssignment\obj\Debug\TestingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\TestingAssignment\obj\Debug\TestingAssignment.dll
+C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\TestingAssignment\obj\Debug\TestingAssignment.pdb
