@@ -20,3 +20,25 @@ C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\PremiumCa
 C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\PremiumCaculator\obj\Debug\PremiumCaculator.csprojResolveAssemblyReference.cache
 C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\PremiumCaculator\obj\Debug\PremiumCaculator.dll
 C:\Users\Ana\Documents\Jimmy Folder\Year 3\Software Testing\Assignment\PremiumCaculator\obj\Debug\PremiumCaculator.pdb
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\csc.exe
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\vbc.exe
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\PremiumCaculator.dll.config
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\PremiumCaculator.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\PremiumCaculator.pdb
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\TestingAssignment.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\TestingAssignment.pdb
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\obj\Debug\PremiumCaculator.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\obj\Debug\PremiumCaculator.dll
+C:\Users\Ana\Source\Repos\Software-Quality-Assignment2\Assignment\PremiumCaculator\obj\Debug\PremiumCaculator.pdb
